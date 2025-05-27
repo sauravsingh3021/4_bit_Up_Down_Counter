@@ -21,7 +21,7 @@ This project implements a 4-bit up/down counter using **Verilog**, simulated and
 |----------------|---------------------------------|
 | `design.v`     | The main Verilog module          |
 | `testbench.v`  | The testbench used for simulation|
-| `simulation_output.txt` | Console output from simulation (optional) |
+| `simulation_output.txt` | Console output from simulation |
 
 ---
 
@@ -46,17 +46,8 @@ Simulation output logs the signal changes over time.
 
 ## 💡 How to Use
 
-1. Run the design and testbench on your favorite Verilog simulator (e.g., ModelSim, Icarus Verilog).
+1. Run the design and testbench on your favorite Verilog simulator.
 2. Or simulate online using the EDA Playground link above.
 
----
 
-## 🛠️ Requirements (If Running Locally)
-
-- Verilog simulator such as ModelSim, Icarus Verilog, or others.
-- Optional: VS Code with Verilog extension for editing.
-
----
-
-## 📁 Repository Structure
 
